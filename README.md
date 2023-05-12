@@ -1,5 +1,5 @@
 # Js-game-projects
-Javascript code along game projects with Anya Kubow
+Javascript code along game projects with Ania Kubow
 
 This includes 7 code along game projects:
 
